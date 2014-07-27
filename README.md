@@ -1,4 +1,4 @@
-Javascript1
+Javascript
 ===========
 
 Javascript拖放对象练习
